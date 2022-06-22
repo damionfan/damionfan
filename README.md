@@ -9,7 +9,7 @@
   <p>
     <em>
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on IEE/CAS and SDNU.
 - 🌱 I’m currently learning Homomorphic Encryption.
@@ -18,7 +18,3 @@ Here are some ideas to get you started:
   </p>
 </div>
 
-
-
-
--->
