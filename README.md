@@ -4,8 +4,8 @@
 
 
 
-- 🔭 I’m currently working on IIE/CAS and SDNU.
+- 🔭 I’m currently studying and working on IIE/CAS.
 - 🌱 I’m currently learning Homomorphic Encryption.
-- 👯 I’m looking to collaborate on Homomorphic Encryption, NLP appilication, algorithm acceleration based on GPU.
+- 👯 I’m looking to cooperate in Homomorphic encryption accelerator design and related HE application optimization.
 
 
