@@ -1,5 +1,4 @@
-- 🔭 I’m currently studying and working on IIE/CAS.
-- 🌱 I’m currently learning Homomorphic Encryption.
-- 👯 I’m looking to cooperate in Homomorphic encryption accelerator design and related HE application optimization.
+- 🔭 I am currently a one-year Ph.D. student at the Institute of Information Engineering, Chinese Academy of Sciences.
+- 👯 My research interests lie in the domain of computer architecture, with a specialized focus on the design of accelerators for Homomorphic Encryption (HE) and the optimization of related HE applications.
 
 
